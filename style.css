@@ -11,6 +11,9 @@ header {
     text-align: center;
 
 }
+.logo {
+    width: auto;
+}
 
 main {
     display: flex;
@@ -31,9 +34,7 @@ h1 {
     display: flex;
     width: 30%;
     height: auto;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 50px;
+    margin: 50px;
     flex: 50%;
 }
 
@@ -50,7 +51,7 @@ footer {
 @media screen and (max-width: 890px) {
   header{
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     width: auto;
     text-align: center;
   }
