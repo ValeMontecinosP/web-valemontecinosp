@@ -9,6 +9,7 @@
 header {
     margin: 50px;
     text-align: center;
+
 }
 
 main {
@@ -31,6 +32,7 @@ h1 {
     width: 30%;
     height: auto;
     margin-left: 50px;
+    margin-right: 50px;
     margin-bottom: 50px;
     flex: 50%;
 }
@@ -49,6 +51,8 @@ footer {
   header{
     display: flex;
     flex-direction: column;
+    width: auto;
+    text-align: center;
   }
   main {
     flex: 100%;
