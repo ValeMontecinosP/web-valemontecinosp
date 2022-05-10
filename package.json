@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ValeMontecinosP/web-valemontecinosp/issues"
   },
-  "homepage": "https://github.com/ValeMontecinosP/web-valemontecinosp#readme"
+  "homepage": "https://github.com/ValeMontecinosP/web-valemontecinosp#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
